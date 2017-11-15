@@ -1,4 +1,4 @@
-# Tico e Teco
+# Kyle e Jesse
 
 Este projeto envolve dois robôs móveis,cada um com um braço robótico.
 
